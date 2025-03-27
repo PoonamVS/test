@@ -29,6 +29,9 @@ public class Demo1 {
 		
 		
 		
+		
+		
+		
 		chromedriver.findElement(By.xpath("//*[@id=\"3\"]/div[4]")).click();
 		chromedriver.findElement(By.xpath("//*[@id=\"7\"]/div[4]")).click();
 		chromedriver.findElement(By.xpath("//*[text()='Checkout']")).click();
